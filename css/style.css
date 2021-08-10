@@ -1,0 +1,57 @@
+
+body header {
+background-color: #34c3eb;
+border: 1px solid #34c3eb;
+border-color: #34c3eb;
+max-height: 75px;
+}
+
+
+header h2 {
+  color: white;
+  margin: 0 0 0 50;
+  padding: 0;
+  display: inline-flex;
+}
+
+nav {
+  display: inline-flex;
+  padding: 0;
+  justify-content: left;
+  background-color: #34c3eb;
+  border: 1px solid #34c3eb;
+  border-color: #34c3eb;
+
+}
+
+header li {
+  display: inline-flex;
+  border: 1px solid #34c3eb;
+  border-color: #34c3eb;
+  box-sizing: content-box;
+  position: relative;
+  top: 70 px;
+}
+#newsletter-section {
+  border-color: #34c3eb;
+  background-color: #34c3eb;
+  border: 1px solid #34c3eb;
+}
+#newsletter-section .container {
+  display: inline-flex;
+
+}
+#newsletter-section h3 {
+  color: white;
+}
+#subscribe-btn {
+  background-color: red;
+  color: white;
+}
+.card {
+  display: inline-block;
+  position: relative;
+  top: 80px;
+  padding: 30px;
+
+}
